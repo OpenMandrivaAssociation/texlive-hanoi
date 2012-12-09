@@ -44,3 +44,11 @@ As a game it will solve the towers with (up to) 15 discs (with
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jan 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120101-1
++ Revision: 758884
+- texlive-hanoi
+- texlive-hanoi
+
