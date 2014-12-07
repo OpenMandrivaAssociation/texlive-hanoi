@@ -6,7 +6,7 @@
 # catalog-version 20120101
 Name:		texlive-hanoi
 Version:	20120101
-Release:	7
+Release:	8
 Summary:	Tower of Hanoi in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/hanoi/hanoi.tex
