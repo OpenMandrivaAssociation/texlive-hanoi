@@ -5,8 +5,8 @@
 # catalog-license pd
 # catalog-version 20120101
 Name:		texlive-hanoi
-Version:	20180303
-Release:	2
+Version:	20190228
+Release:	1
 Summary:	Tower of Hanoi in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/hanoi/hanoi.tex
