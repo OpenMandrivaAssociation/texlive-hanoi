@@ -1,6 +1,6 @@
 Name:		texlive-hanoi
 Version:	25019
-Release:	1
+Release:	2
 Summary:	Tower of Hanoi in TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/hanoi/hanoi.tex
