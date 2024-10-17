@@ -3,7 +3,7 @@ Version:	25019
 Release:	2
 Summary:	Tower of Hanoi in TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/plain/contrib/hanoi/hanoi.tex
+URL:		https://www.ctan.org/tex-archive/macros/plain/contrib/hanoi/hanoi.tex
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hanoi.r%{version}.tar.xz
 BuildArch:	noarch
